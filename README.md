@@ -1,4 +1,4 @@
 # Koggy-Stalker
 api.kognise.dev discord RPC widget
 
-A Python app that interfaces with Discord-RPC to show everyone who is interested what Kognise is up to. That's it. Nothing else. No other features.
+A Python app that interfaces with Discord-RPC to show everyone who is interested what @Kognise is up to. That's it. Nothing else. No other features.
